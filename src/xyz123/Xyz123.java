@@ -14,9 +14,9 @@ public class Xyz123 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // Hello!
+        // Hello! (To retrieve info from github [fetch + merge)
         // TODO code application logic here
-        //Edit
+        // Edit (To upload info to github [commit + push]
     }
     
 }
